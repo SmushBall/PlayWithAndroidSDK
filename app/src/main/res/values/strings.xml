@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GreetingApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="greetstring">"Good Day "</string>
+    <string name="title_activity_show_message">showMessage</string>
+    <string name="greetFrnd">"Good Day "</string>
+</resources>
